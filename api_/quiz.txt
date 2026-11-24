@@ -1,26 +1,33 @@
-Question 1: What does RAG stand for in the context of Artificial Intelligence?
-Options: Rapid Artificial Generation
-Retrieval-Augmented Generation
-Recursive Algorithmic Grouping
-Robust Automated Gathering ")}
+Question 1: What greeting is written at the top of the image?
+
+Options:
+a. Happy Birthday
+b. Happy New Year
+c. Merry Christmas
+d. Happy Valentine's Day
+
 Difficulty: easy
-Correct Answer: Retrieval-Augmented Generation
+Correct Answer: Happy New Year
 
+Question 2: What is the cat holding in its paws?
 
-Question 2: Which component is primarily responsible for converting retrieved documents into numerical vectors for similarity search in a RAG system?
-Options: LLM Decoder
-Embedding Model
-Prompt Template
-Output Parser ")}
+Options:
+a. A fish
+b. A pink heart
+c. A red star
+d. A ball of yarn
+
+Difficulty: easy
+Correct Answer: A pink heart
+
+Question 3: Which city is mentioned in the greetings at the bottom?
+
+Options:
+a. London
+b. Paris
+c. New York
+d. Tokyo
+
 Difficulty: medium
-Correct Answer: Embedding Model
-
-
-Question 3: Which technique is commonly used to mitigate the 'lost in the middle' phenomenon in RAG systems where relevant information is ignored if placed in the middle of a large context window?
-Options: Recursive Character Splitting
-Reranking
-Query Expansion
-Self-Correction Loop ")}
-Difficulty: hard
-Correct Answer: Reranking
+Correct Answer: New York
 

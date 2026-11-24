@@ -1,5 +1,5 @@
 import { Type } from "@google/genai";
-
+// const difficulty=["easy", "medium", "hard"];
 export const quizSchema = {
     type: Type.OBJECT,
     properties: {
